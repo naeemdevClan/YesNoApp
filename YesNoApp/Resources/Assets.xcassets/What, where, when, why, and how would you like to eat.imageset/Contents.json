@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "What, where, when, why, and how would you like to eat.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "What, where, when, why, and how would you like to eat@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "What, where, when, why, and how would you like to eat@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
