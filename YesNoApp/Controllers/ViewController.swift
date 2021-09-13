@@ -28,9 +28,9 @@ extension ViewController:UITextFieldDelegate{
         txtSearch.resignFirstResponder()
     }
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
-//        let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "LoginVC") as! LoginVC
-//        self.present(vc, animated: true, completion: nil)
-        gotoAlertview()
+        let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "LoginVC") as! LoginVC
+        self.present(vc, animated: true, completion: nil)
+     //   gotoAlertview()
         return true
     }
     
