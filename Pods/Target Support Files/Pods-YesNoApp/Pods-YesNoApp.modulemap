@@ -1,0 +1,6 @@
+framework module Pods_YesNoApp {
+  umbrella header "Pods-YesNoApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
